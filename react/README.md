@@ -14,3 +14,14 @@
   check our marketplace for more amazing products: [Keenthemes Marketplace](//keenthemes.com/)
 
 Happy coding with Metronic!
+
+# Demos
+
+https://preview.keenthemes.com/metronic8/react/demo1/dashboard
+https://preview.keenthemes.com/metronic8/react/demo2/dashboard
+https://preview.keenthemes.com/metronic8/react/demo3/dashboard
+https://preview.keenthemes.com/metronic8/react/demo4/dashboard
+https://preview.keenthemes.com/metronic8/react/demo5/dashboard
+https://preview.keenthemes.com/metronic8/react/demo6/dashboard
+https://preview.keenthemes.com/metronic8/react/demo7/dashboard
+https://preview.keenthemes.com/metronic8/react/demo8/dashboard
